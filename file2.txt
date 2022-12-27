@@ -2,3 +2,6 @@ This is an intellipaat git course and i am here to practice it.
 
 
 There is another course called Azure Devops and even i need to practice it.
+
+
+this is devops directory
